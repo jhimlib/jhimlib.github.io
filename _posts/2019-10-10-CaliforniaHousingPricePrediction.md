@@ -1,9 +1,9 @@
 ---
 title: "California Housing Price Prediction"
 date: "2019-10-10"
-tags: [data science, Regression]
+tags: [data science, Regression, Kaggle Dataset]
 header:
-excerpt: "Data Science, Regression"
+excerpt: "Data Science, Regression, Kaggle Dataset"
 mathjax: "true"
 ---
 ### Analysis Tasks to be performed:
