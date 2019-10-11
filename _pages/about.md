@@ -1,8 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/zakim.jpg"
+header: 
 ---
 
 I have 16 + years of experience in the IT industry experience across multiple industries (Retail and Mortgage Banking, Automobile Finance, Automobile Industry, Parking, Hotel Industry, Shipping Industry, Storage Industry) and multiple technologies (Data Science, ML, Python, Azure, Xamarin, MS Technologies).
