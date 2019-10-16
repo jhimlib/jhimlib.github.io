@@ -1,9 +1,9 @@
 ---
 title: "Income Qualification"
 date: "2019-10-15"
-tags: [data science, Classification, Ensemble Learning, K-Fold, Cross Validation]
+tags: [data science, Classification, Ensemble Learning, K-Fold, Cross Validation, Kaggle Dataset]
 header:
-excerpt: "Data Science, Classification, Ensemble Learning, K-Fold, Cross Validation"
+excerpt: "Data Science, Classification, Ensemble Learning, K-Fold, Cross Validation, Kaggle Dataset"
 mathjax: "true"
 ---
 ### Income Qualification
