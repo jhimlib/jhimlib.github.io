@@ -1147,7 +1147,7 @@ plt.title('Home Ownership Status for Households Missing Rent Payments', size = 1
 ```
 
 
-![png](IncomeQualification_files/IncomeQualification_31_0.png)
+![png](/images/IncomeQualification_files/IncomeQualification_31_0.png)
 
 
 
@@ -1210,7 +1210,7 @@ plt.show();
 ```
 
 
-![png](IncomeQualification_files/IncomeQualification_35_0.png)
+![png](/images/IncomeQualification_files/IncomeQualification_35_0.png)
 
 
 
@@ -1841,7 +1841,7 @@ target_counts.plot.bar(figsize = (8, 6),linewidth = 2,edgecolor = 'k',title="Tar
 
 
 
-![png](IncomeQualification_files/IncomeQualification_57_1.png)
+![png](/images/IncomeQualification_files/IncomeQualification_57_1.png)
 
 
 
@@ -2038,7 +2038,7 @@ sns.heatmap(corr_matrix.loc[corr_matrix['tamhog'].abs() > 0.9, corr_matrix['tamh
 ```
 
 
-![png](IncomeQualification_files/IncomeQualification_65_0.png)
+![png](/images/IncomeQualification_files/IncomeQualification_65_0.png)
 
 
 
@@ -2388,7 +2388,7 @@ plt.xlabel('Importance')
 
 
 
-![png](IncomeQualification_files/IncomeQualification_91_1.png)
+![png](/images/IncomeQualification_files/IncomeQualification_91_1.png)
 
 
 From the above figure, meaneduc,dependency,overcrowding has significant influence on the model.
