@@ -390,15 +390,15 @@ scaled_df.plot(kind='scatter',x='ocean_proximity',y='median_house_value',ax=axs[
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_16_1.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_16_1.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_16_2.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_16_2.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_16_3.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_16_3.png)
 
 
 ### Insight:
@@ -414,43 +414,43 @@ for column in scaled_df:
 ```
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_0.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_0.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_1.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_1.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_2.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_2.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_3.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_3.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_4.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_4.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_5.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_5.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_6.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_6.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_7.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_7.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_8.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_8.png)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_9.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_19_9.png)
 
 
 # 6. Extract X and Y data : 
@@ -821,7 +821,7 @@ plt.plot(x_test_Income,y_predict,c='red',linewidth=2)
 
 
 
-![png](CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_52_1.png)
+![png](/images/CaliforniaHousingPricePrediction_files/CaliforniaHousingPricePrediction_52_1.png)
 
 
 ### Hypothesis testing and P values: 
