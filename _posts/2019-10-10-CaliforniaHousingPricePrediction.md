@@ -6,8 +6,6 @@ header:
 excerpt: "Data Science, Regression, Kaggle Dataset"
 mathjax: "true"
 ---
-## California Housing Price Prediction
-
 #### DESCRIPTION
 
 #### Background of Problem Statement :
